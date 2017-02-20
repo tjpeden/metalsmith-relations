@@ -6,7 +6,7 @@ A [Metalsmith][metalsmith-url] plugin that computes related documents for each d
 [![NPM Version][npm-version-badge]][npm-url]
 [![License][github-license-badge]](LICENCE)
 
-This project is similar to [metalsmith-related][metalsmith-related-url], but favors property matching over globbing. This is the same approach that [metalsmith-permalinks][metalsmith-permalinks-url] uses, which is typically dependent [metalsmith-collections][metalsmith-collections-url]. There is no real difference other than that. It's written in TypeScript, but the algorithm and supporting library, [natural][natural-url], are the same.
+This project is similar to [metalsmith-related][metalsmith-related-url], but favors property matching over globbing. This is the same approach that [metalsmith-permalinks][metalsmith-permalinks-url] uses, which typically depends on [metalsmith-collections][metalsmith-collections-url]. There is no real difference other than that. It's written in TypeScript, but the algorithm and supporting library, [natural][natural-url], are the same.
 
 ## Use
 
