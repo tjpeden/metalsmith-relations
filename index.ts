@@ -22,7 +22,7 @@ interface Options {
   terms?: number;
   max?: number;
   threshold?: number;
-  text: TextFn;
+  text?: TextFn;
 }
 
 interface DoneFn {
